@@ -1,0 +1,124 @@
+{"frames": {
+
+"help-hl.png":
+{
+	"frame": {"x":160,"y":0,"w":90,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":34},
+	"sourceSize": {"w":90,"h":34}
+},
+"help.png":
+{
+	"frame": {"x":250,"y":0,"w":90,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":34},
+	"sourceSize": {"w":90,"h":34}
+},
+"load-game-hl.png":
+{
+	"frame": {"x":180,"y":37,"w":190,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":37},
+	"sourceSize": {"w":190,"h":37}
+},
+"load-game.png":
+{
+	"frame": {"x":370,"y":37,"w":190,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":37},
+	"sourceSize": {"w":190,"h":37}
+},
+"new-game-hl.png":
+{
+	"frame": {"x":0,"y":37,"w":180,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":37},
+	"sourceSize": {"w":180,"h":37}
+},
+"new-game.png":
+{
+	"frame": {"x":616,"y":0,"w":180,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":37},
+	"sourceSize": {"w":180,"h":37}
+},
+"options-hl.png":
+{
+	"frame": {"x":340,"y":0,"w":138,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":34},
+	"sourceSize": {"w":138,"h":34}
+},
+"options.png":
+{
+	"frame": {"x":478,"y":0,"w":138,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":34},
+	"sourceSize": {"w":138,"h":34}
+},
+"quit-hl.png":
+{
+	"frame": {"x":80,"y":0,"w":80,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":34},
+	"sourceSize": {"w":80,"h":34}
+},
+"quit.png":
+{
+	"frame": {"x":0,"y":0,"w":80,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":34},
+	"sourceSize": {"w":80,"h":34}
+},
+"restart-hl.png":
+{
+	"frame": {"x":0,"y":74,"w":285,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":34},
+	"sourceSize": {"w":285,"h":34}
+},
+"restart.png":
+{
+	"frame": {"x":570,"y":74,"w":285,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":34},
+	"sourceSize": {"w":285,"h":34}
+},
+"return-hl.png":
+{
+	"frame": {"x":560,"y":37,"w":285,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":34},
+	"sourceSize": {"w":285,"h":34}
+},
+"return.png":
+{
+	"frame": {"x":285,"y":74,"w":285,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":34},
+	"sourceSize": {"w":285,"h":34}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "menu-button-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":855,"h":108},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:de5f7c26db9f9d12b9e6ca0b1d984a1e:5064d2ce12ec0a5e3f32f934254247d1:f519a9723709329cb7625136a6a52d89$"
+}
+}

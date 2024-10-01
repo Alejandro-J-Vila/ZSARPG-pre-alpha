@@ -1,0 +1,44 @@
+{"frames": {
+
+"main-building-damaged.png":
+{
+	"frame": {"x":0,"y":0,"w":192,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":192},
+	"sourceSize": {"w":192,"h":192}
+},
+"main-building-destroyed.png":
+{
+	"frame": {"x":192,"y":0,"w":192,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":192},
+	"sourceSize": {"w":192,"h":192}
+},
+"main-building-exterior.png":
+{
+	"frame": {"x":384,"y":0,"w":192,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":192},
+	"sourceSize": {"w":192,"h":192}
+},
+"main-building-interior.png":
+{
+	"frame": {"x":576,"y":0,"w":192,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":192},
+	"sourceSize": {"w":192,"h":192}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "main-building-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":768,"h":192},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:effb1e29a8c7b685b8b39acdd4707c73:487917749221c9df55f1ed4970f8a509:15aa071e3c804af3b6a365f7e303a673$"
+}
+}

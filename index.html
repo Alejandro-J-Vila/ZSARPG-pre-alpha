@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Game</title>
+
+  <style>
+    html,
+    body,
+    #game-container
+    {
+      margin: 0;
+      padding: 0;
+    }
+
+    #game-container
+    {
+      min-width: 100vw;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #game-container>canvas
+    {
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="game-container"></div>
+  <script src="js/phaser.js"></script>
+  <script src="js/main.js" type="module"></script>
+
+  <script nomodule>
+    alert("This browser doesn't support JS modules, so the game won't work as is. Try the latest version of Chrome, FF or Safari!");
+  </script>
+</body>
+
+</html>
